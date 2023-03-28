@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MCre77.dir/main.cpp.o -o MCre77 

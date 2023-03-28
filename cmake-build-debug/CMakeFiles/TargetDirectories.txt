@@ -1,0 +1,3 @@
+/home/ni7ram/CLionProjects/MCre77/cmake-build-debug/CMakeFiles/MCre77.dir
+/home/ni7ram/CLionProjects/MCre77/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ni7ram/CLionProjects/MCre77/cmake-build-debug/CMakeFiles/rebuild_cache.dir
